@@ -9,26 +9,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Swagger_Example.Web.Extensions
+namespace Swagger_Example.Web.SwaggerConfig
 {
-    public class AuthenticationDocumentFilter : IDocumentFilter
-    {
-        private readonly IHttpContextAccessor httpContextAccessor;
-
-        public AuthenticationDocumentFilter(IHttpContextAccessor httpContextAccessor)
-        {
-            this.httpContextAccessor = httpContextAccessor;
-        }
-
-        public void Apply(SwaggerDocument swaggerDoc, DocumentFilterContext context)
-        {
-            if (!httpContextAccessor.HttpContext.User.Identity.IsAuthenticated)
-            {
-                swaggerDoc.Definitions = new Dictionary<string, Schema>();
-                swaggerDoc.Paths = new Dictionary<string, PathItem>();
-            }
-        }
-  }
     public static class SwaggerExtensions
     {
         public static void AddSwagger(this IServiceCollection services)
