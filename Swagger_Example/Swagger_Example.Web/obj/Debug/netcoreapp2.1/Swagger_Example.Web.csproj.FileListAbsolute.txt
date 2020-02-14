@@ -1,0 +1,16 @@
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\bin\Debug\netcoreapp2.1\Swagger_Example.Web.deps.json
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\bin\Debug\netcoreapp2.1\Swagger_Example.Web.runtimeconfig.json
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\bin\Debug\netcoreapp2.1\Swagger_Example.Web.runtimeconfig.dev.json
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\bin\Debug\netcoreapp2.1\Swagger_Example.Web.dll
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\bin\Debug\netcoreapp2.1\Swagger_Example.Web.pdb
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\obj\Debug\netcoreapp2.1\Swagger_Example.Web.csprojAssemblyReference.cache
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\obj\Debug\netcoreapp2.1\Swagger_Example.Web.RazorAssemblyInfo.cache
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\obj\Debug\netcoreapp2.1\Swagger_Example.Web.RazorAssemblyInfo.cs
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\obj\Debug\netcoreapp2.1\Swagger_Example.Web.AssemblyInfoInputs.cache
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\obj\Debug\netcoreapp2.1\Swagger_Example.Web.AssemblyInfo.cs
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\obj\Debug\netcoreapp2.1\Swagger_Example.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\obj\Debug\netcoreapp2.1\Swagger_Example.Web.dll
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\Swagger\Swagger_Example\Swagger_Example.Web\obj\Debug\netcoreapp2.1\Swagger_Example.Web.pdb
